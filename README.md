@@ -4,7 +4,7 @@ My first 'independent' project made after my first semester at university Lyon 1
 
 Built using the library "GrAPiC" (http://liris.cnrs.fr/alexandre.meyer/grapic/html/index.html).
 
-I used Code::Blocks, but Express Studio should not have any problems.
+I used Code::Blocks, but Visual Studio should not have any problems.
 Instruction to set up library on site.
 
 Executable :
