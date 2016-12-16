@@ -395,7 +395,7 @@ int main(int , char** )
     bool rainbow = false; // I should have put these three variables inside the world structure
     bool speedSet = false;
     bool timerFinito = true;
-	winInit("Project", DIMW, DIMW+50);
+	winInit("Ssnake", DIMW, DIMW+50);
 	setKeyRepeatMode(false);
     bool haveImage = starting();
     initWorld(world, haveImage);
