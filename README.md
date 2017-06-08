@@ -14,10 +14,6 @@ The executable will probably not be updated as frequently as the source files.
 
 Screenshots :
 
-[url=https://postimg.org/image/6c8ve7qur/][img]https://s5.postimg.org/6c8ve7qur/Ssnake_1.png[/img][/url]
-
-[url=https://postimg.org/image/ife71s1wz/][img]https://s5.postimg.org/ife71s1wz/Ssnake_2.png[/img][/url]
-
-[url=https://postimg.org/image/6excesjw3/][img]https://s5.postimg.org/6excesjw3/Ssnake.png[/img][/url]
-
-
+![alt text](https://s5.postimg.org/nfg8ngwxj/Ssnake.png)
+![alt text](https://s5.postimg.org/scp7uu9iv/Ssnake_2.png)
+![alt text](https://s5.postimg.org/4kfwjb7hz/Ssnake_1.png)
