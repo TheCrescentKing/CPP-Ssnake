@@ -5,7 +5,7 @@ My first 'independent' project made after my first semester at university Lyon 1
 Built using the library "GrAPiC" (http://liris.cnrs.fr/alexandre.meyer/grapic/html/index.html).
 
 I used Code::Blocks, but Visual Studio should not have any problems.
-Instruction for setting up the library on site.
+Instruction for setting up the library on the above site.
 
 -> Merge the folders "apps" , "data" and "build" with your grapic library. Then open the CB project in the build folder for Ssnake.
 
