@@ -9,6 +9,10 @@ Instruction for setting up the library on the above site.
 
 ![alt text](https://s5.postimg.org/nfg8ngwxj/Ssnake.png)
 
+Video:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4ptvsWDsG94/0.jpg)](https://www.youtube.com/watch?v=4ptvsWDsG94 "Ssnake Project")
+
 Instructions:
 Once you have downloaded and set-up Grapic, merge the data folder with the one in Grapic. Then add the Ssnake folder to grapic-_version_/apps.
 Lastly, modify the "grapic.lua" file after the line that says "-- description des projets" with:
