@@ -9,6 +9,9 @@ Instruction for setting up the library on the above site.
 
 ![Ssnake.png](https://i.imgur.com/3tTgLAu.png)
 
+The aobve screenshot is during the mode where after you 'eat' a star, the colours are randomized in a Mario-Kart inspired way.
+
+
 Video:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4ptvsWDsG94/0.jpg)](https://www.youtube.com/watch?v=4ptvsWDsG94 "Ssnake Project")
