@@ -9,7 +9,7 @@ Instruction for setting up the library on the above site.
 
 ![Ssnake.png](https://i.imgur.com/3tTgLAu.png)
 
-The aobve screenshot is during the mode where after you 'eat' a star, the colours are randomized in a Mario-Kart inspired way.
+The above screenshot is during the mode where after you 'eat' a star, the colours are randomized in a Mario-Kart inspired way.
 
 
 Video:
