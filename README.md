@@ -7,7 +7,7 @@ Built using the library "GrAPiC" (http://liris.cnrs.fr/alexandre.meyer/grapic/ht
 Last tested on Windows with Grapic 1.0.50 using Code::BLocks.
 Instruction for setting up the library on the above site.
 
-[![Ssnake.png](https://i.imgur.com/3tTgLAu.png)
+![Ssnake.png](https://i.imgur.com/3tTgLAu.png)
 
 Video:
 
