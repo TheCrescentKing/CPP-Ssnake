@@ -14,7 +14,8 @@ The above screenshot is during the mode where after you 'eat' a star, the colour
 
 Video:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/4ptvsWDsG94/0.jpg)](https://youtu.be/xO-whE5Uzyo "Ssnake Project")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xO-whE5Uzyo" target="_blank"><img src="http://img.youtube.com/vi/xO-whE5Uzyo/1.jpg" 
+alt="Ssnake Project" width="240" height="180" border="10" /></a>
 
 Instructions:
 Once you have downloaded and set-up Grapic, merge the data folder with the one in Grapic. Then add the Ssnake folder to grapic-_version_/apps.
